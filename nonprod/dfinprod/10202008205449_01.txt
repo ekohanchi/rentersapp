@@ -1,0 +1,64 @@
+aciflname: Mr. hotshot
+aciacn: some hot complex
+acistreet: 123 somthing street
+acicity: san diego
+acistate: California
+acizip: 92120
+
+fname1: bobby
+lname1: billboard
+dobmonth1: 12
+dobday1: 25
+dobyear1: 1980
+dlnum1: jladf
+dlstate1: CA
+sex1: male
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 123 something streeet
+icity: san diego
+istate: California
+izip: 92120
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 123
+cell3: 234
+cell4: 2342
+email: ajdslfk@sdomsd.com
+
+caryear1: 1980
+carmake1: BMW
+carmodel1: 23432
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 2
+effmonth: 10
+effmday: 21
+effyear: 2008
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+
+cctype: visa
+ccnum: 4111111111111111
+ccexpmonth: 12
+ccexpyear: 2343
+ccbillzip: 92123

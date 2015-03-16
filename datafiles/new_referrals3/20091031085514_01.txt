@@ -1,0 +1,61 @@
+referral_id: 20091031085514_01
+prepopulatedACN: 0
+aciflname: BOBBI YARNO
+aciacn: CABRILLO SPRINGS
+acistreet: 7901 HARMARSH ST
+acicity: SAN DIEGO
+acistate: California
+acizip: 92123
+
+fname1: ORLANDO 
+lname1: ICASIANO
+dobmonth1: 12
+dobday1: 07
+dobyear1: 1959
+dlnum1: B6597477
+dlstate1: CA
+sex1: male
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 3295 ANNRAE ST
+icity: SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 858
+cell3: 361
+cell4: 1912
+email: CABRILLOSPRINGS@YAHOO.COM
+
+caryear1: 2008
+carmake1: Honda
+carmodel1: ODSSEY
+caryear2: 1997
+carmake2: Honda
+carmodel2: CIVIC
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 1
+effmonth: 11
+effmday: 2
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utmc: 99143561

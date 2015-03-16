@@ -1,0 +1,63 @@
+prepopulatedACN: 0
+aciflname: joe
+aciacn: Acadia
+acistreet: 2643 W Canyon ave
+acicity: San Diego
+acistate: California
+acizip: 92123
+
+fname1: Joe
+lname1: Test
+dobmonth1: 12
+dobday1: 21
+dobyear1: 1999
+dlnum1: 9999999
+dlstate1: CA
+sex1: male
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 2353 w canyon ave
+icity: san diego
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 619
+cell3: 316
+cell4: 8082
+email: rick@rickwiese.com
+
+caryear1: 2000
+carmake1: BMW
+carmodel1: 330
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 4
+effmonth: 4
+effmday: 2
+effyear: 2009
+
+ppc: $30,000
+po: $222 annually
+__utma: 99143561.3676224410021714400.1238195860.1238195860.1238613769.2
+__utmb: 99143561.1.10.1238613769
+__utmz: 99143561.1238195860.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+__utmc: 99143561

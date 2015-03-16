@@ -1,0 +1,65 @@
+aciflname: Alicia Clark
+aciacn: Torres Apartments
+acistreet: 123 Any St
+acicity: San Diego
+acistate: California
+acizip: 92123
+
+fname1: Ella Mae
+lname1: Marion
+dobmonth1: 3
+dobday1: 09
+dobyear1: 1982
+dlnum1: A1234567
+dlstate1: CA
+sex1: female
+fname2: Ramon
+lname2: Marion
+dobmonth2: 9
+dobday2: 05
+dobyear2: 1980
+dlnum2: A7654321
+dlstate2: CA
+sex2: male
+
+istreet: 123 Any St #123
+icity: San Diego
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 858
+cell3: 555
+cell4: 1234
+email: 123@123.com
+
+caryear1: 2008
+carmake1: Honda
+carmodel1: Civic
+caryear2: 2009
+carmake2: Maserati
+carmodel2: S
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 4
+effmonth: 10
+effmday: 23
+effyear: 2008
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+
+cctype: visa
+ccnum: 4111222233334444
+ccexpmonth: 12
+ccexpyear: 2010
+ccbillzip: 92123

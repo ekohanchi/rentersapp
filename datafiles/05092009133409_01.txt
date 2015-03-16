@@ -1,0 +1,63 @@
+prepopulatedACN: 0
+aciflname: BOBBI YARNO
+aciacn: CABRILLO SPRINGS 
+acistreet: 7901 HARMARSH ST
+acicity: SAN DIEGO
+acistate: California
+acizip: 92123
+
+fname1: WILLIAM
+lname1: HICKMAN JR
+dobmonth1: 3
+dobday1: 27
+dobyear1: 1990
+dlnum1: TC339966
+dlstate1: OH
+sex1: male
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 3426 OLGA AVE
+icity: SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 740
+cell3: 509
+cell4: 2454
+email: cabrillosprings@yahoo.com
+
+caryear1: 1999
+carmake1: Pontiac
+carmodel1: firebird
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 1
+effmonth: 5
+effmday: 11
+effyear: 2009
+
+ppc: $30,000
+po: $222 annually
+__utma: 99143561.4097903839385134000.1241634577.1241634577.1241901023.2
+__utmb: 99143561.1.10.1241901023
+__utmz: 99143561.1241634577.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+__utmc: 99143561

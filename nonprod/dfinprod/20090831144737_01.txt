@@ -1,0 +1,63 @@
+referral_id: 20090831144737_01
+prepopulatedACN: 0
+aciflname: BOBBI YARNO
+aciacn: CABRILLO SPRINGS
+acistreet: 7901 HARMARSH ST
+acicity: SAN DIEGO
+acistate: California
+acizip: 92123
+
+fname1: ELVIRA
+lname1: RAMOS
+dobmonth1: 8
+dobday1: 22
+dobyear1: 1985
+dlnum1: e2399688
+dlstate1: CA
+sex1: female
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 3484 OLGA AVE 
+icity: SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 619
+cell3: 381
+cell4: 8457
+email: cabrillosprings@yahoo.com
+
+caryear1: 1992
+carmake1: Toyota
+carmodel1: PICKUP
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 2
+effmonth: 9
+effmday: 1
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utma: 99143561.4183182684897719300.1247875473.1251750851.1251752856.41
+__utmz: 99143561.1247875473.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+__utmc: 99143561

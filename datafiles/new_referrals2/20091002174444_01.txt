@@ -1,0 +1,64 @@
+referral_id: 20091002174444_01
+prepopulatedACN: 0
+aciflname: BOBBI YARNO
+aciacn: CABRILLO SPRINHS
+acistreet: 7901 HARMARSH ST
+acicity: SAN DIEGO
+acistate: California
+acizip: 92123
+
+fname1: PAUL
+lname1: LUANGKHOT
+dobmonth1: 1
+dobday1: 27
+dobyear1: 1984
+dlnum1: D1967037
+dlstate1: CA
+sex1: male
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 3237 KEARNY VILLA LN
+icity: SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 626
+cell3: 348
+cell4: 4483
+email: PLUANGKHOT21@YAHOO.COM
+
+caryear1: 2006
+carmake1: Honda
+carmodel1: CIVIC
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 1
+effmonth: 10
+effmday: 5
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utma: 99143561.1197957900.1254523794.1254523794.1254528338.2
+__utmb: 99143561.6.10.1254528338
+__utmc: 99143561
+__utmz: 99143561.1254523794.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)

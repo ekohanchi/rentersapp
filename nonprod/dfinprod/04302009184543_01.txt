@@ -1,0 +1,63 @@
+prepopulatedACN: 0
+aciflname: BOBBI YARNO
+aciacn: CABRILLO SPRINGS
+acistreet: 7901 HARMARSH ST
+acicity: MESA COLLEGE DR
+acistate: California
+acizip: 92123
+
+fname1: NINO
+lname1: CUSELLA
+dobmonth1: 4
+dobday1: 05
+dobyear1: 1963
+dlnum1: C3642199
+dlstate1: CA
+sex1: male
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 3272 ANNRAE ST
+icity: SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 951
+cell3: 553
+cell4: 1145
+email: ncusella@yahoo.com
+
+caryear1: 2002
+carmake1: Chevrolet
+carmodel1: treckor
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 5
+effmonth: 5
+effmday: 1
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utma: 99143561.3105539605165625300.1241116509.1241138085.1241142189.4
+__utmz: 99143561.1241116509.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+__utmb: 99143561.1.10.1241142189
+__utmc: 99143561

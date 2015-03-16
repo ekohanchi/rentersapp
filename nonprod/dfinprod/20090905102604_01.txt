@@ -1,0 +1,64 @@
+referral_id: 20090905102604_01
+prepopulatedACN: 0
+aciflname: BOBBIYARNO
+aciacn: CABRILLO SPRINGS
+acistreet: 7901 HARMARSH ST
+acicity: SAN DIEGO
+acistate: California
+acizip: 92123
+
+fname1: TIMOTHY
+lname1: ROSLER
+dobmonth1: 8
+dobday1: 19
+dobyear1: 1982
+dlnum1: D7412713
+dlstate1: CA
+sex1: male
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 3451 KEARNY VILLA LN
+icity: SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 619
+cell3: 446
+cell4: 9195
+email: LEEMAN002000@YAHOO.COM
+
+caryear1: 1995
+carmake1: Ford
+carmodel1: MUSTANG
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 1
+effmonth: 9
+effmday: 7
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utma: 99143561.4183182684897719300.1247875473.1252003284.1252171115.46
+__utmz: 99143561.1247875473.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+__utmb: 99143561.1.10.1252171115
+__utmc: 99143561

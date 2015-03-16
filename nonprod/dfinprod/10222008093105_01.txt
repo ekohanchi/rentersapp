@@ -1,0 +1,65 @@
+aciflname: Ella Marion
+aciacn: Lincoln Military
+acistreet: 123 Any St
+acicity: San Diego
+acistate: California
+acizip: 92123
+
+fname1: Alicia
+lname1: Clark
+dobmonth1: 12
+dobday1: 23
+dobyear1: 1980
+dlnum1: A1234567
+dlstate1: CA
+sex1: female
+fname2: Kurt
+lname2: Torrez
+dobmonth2: 5
+dobday2: 05
+dobyear2: 1979
+dlnum2: B1234567
+dlstate2: CA
+sex2: male
+
+istreet: 123 Any St #123
+icity: San Diego
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 858
+cell3: 555
+cell4: 1234
+email: 123@123.com
+
+caryear1: 2008
+carmake1: Honda
+carmodel1: Civic
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 4
+effmonth: 10
+effmday: 23
+effyear: 2008
+
+ppc: $50,000
+po: $50.34 first month's downpayment, $27.17 monthly
+
+cctype: visa
+ccnum: 4111222233334444
+ccexpmonth: 3
+ccexpyear: 2012
+ccbillzip: 92123

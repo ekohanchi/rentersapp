@@ -1,0 +1,60 @@
+referral_id: 20091027172001_01
+prepopulatedACN: 0
+aciflname: Jessica Sample
+aciacn: Country Hills
+acistreet: 730-1 Via de Luna
+acicity: Corona
+acistate: California
+acizip: 92882
+
+fname1: Richard
+lname1: Oxley
+dobmonth1: 4
+dobday1: 27
+dobyear1: 1969
+dlnum1: D7211680
+dlstate1: CA
+sex1: male
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 795 Avenida Del Vista
+icity: Corona 
+istate: California
+izip: 92882
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 951
+cell3: 454
+cell4: 7259
+email: Roxley1@yahoo.com
+
+caryear1: 2007
+carmake1: Chevrolet
+carmodel1: Silverado
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 3
+effmonth: 10
+effmday: 28
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly

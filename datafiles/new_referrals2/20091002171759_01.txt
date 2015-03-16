@@ -1,0 +1,64 @@
+referral_id: 20091002171759_01
+prepopulatedACN: 0
+aciflname: BOBBI YARNO
+aciacn: CABRILLO SPRINHS
+acistreet: 7901 HARMARSH ST
+acicity: SAN DIEGO
+acistate: California
+acizip: 92123
+
+fname1: JACOB
+lname1: VILLOBOS
+dobmonth1: 9
+dobday1: 09
+dobyear1: 1987
+dlnum1: 23760630
+dlstate1: TX
+sex1: male
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 3228 ANNRAE ST
+icity: SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 210
+cell3: 854
+cell4: 4507
+email: CABRILLOSPRINGS@YAHOO.COM
+
+caryear1: 1994
+carmake1: Honda
+carmodel1: accord
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 1
+effmonth: 10
+effmday: 5
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utma: 99143561.1197957900.1254523794.1254523794.1254528338.2
+__utmb: 99143561.4.10.1254528338
+__utmc: 99143561
+__utmz: 99143561.1254523794.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)

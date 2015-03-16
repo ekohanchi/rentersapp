@@ -1,0 +1,63 @@
+prepopulatedACN: 0
+aciflname: BOBBI YARNO
+aciacn: CABRILLO SPRINGS
+acistreet: 7901 HARMARSH ST
+acicity: SAN DIEGO
+acistate: California
+acizip: 92123
+
+fname1: JACOLBIA
+lname1: JOHNSON
+dobmonth1: 4
+dobday1: 30
+dobyear1: 1987
+dlnum1: A67258042
+dlstate1: VA
+sex1: female
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 3343 KEARNY VILLA LN 
+icity: SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 310
+cell3: 866
+cell4: 0846
+email: JOHNSONDE@CVN76.NAVY.MIL
+
+caryear1: 2005
+carmake1: Honda
+carmodel1: civic
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 3
+effmonth: 8
+effmday: 12
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utma: 99143561.4183182684897719300.1247875473.1249779005.1250011217.21
+__utmz: 99143561.1247875473.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+__utmb: 99143561.2.10.1250011217
+__utmc: 99143561

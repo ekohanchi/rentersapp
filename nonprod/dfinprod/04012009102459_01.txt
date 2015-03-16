@@ -1,0 +1,63 @@
+prepopulatedACN: 1
+aciflname: Melroy Property Management
+aciacn: A Melroy Managed Property
+acistreet: 4241 Jutland Drive, #201
+acicity: San Diego
+acistate: California
+acizip: 92117
+
+fname1: bob
+lname1: test
+dobmonth1: 1
+dobday1: 01
+dobyear1: 1980
+dlnum1: b1111111
+dlstate1: CA
+sex1: male
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 1234 Main Street 
+icity: San Diego
+istate: California
+izip: 92101
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 555
+cell3: 121
+cell4: 1212
+email: bob@test.com
+
+caryear1: 2005
+carmake1: Infiniti
+carmodel1: sx
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 4
+effmonth: 4
+effmday: 2
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utma: 99143561.2617060594575780300.1235613745.1238085400.1238606537.4
+__utmz: 99143561.1235613745.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+__utmb: 99143561.2.10.1238606537
+__utmc: 99143561

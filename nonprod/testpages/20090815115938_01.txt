@@ -1,0 +1,61 @@
+referral_id: 20090815115938_01
+prepopulatedACN: 1
+aciflname: Melroy Property Management
+aciacn: A Melroy Managed Property
+acistreet: 4241 Jutland Drive, #201
+acicity: San Diego
+acistate: California
+acizip: 92117
+
+fname1: test firstname
+lname1: test last name
+dobmonth1: 3
+dobday1: 23
+dobyear1: 1980
+dlnum1: jkladfjl
+dlstate1: CA
+sex1: male
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 123 testing street
+icity: canoga park
+istate: California
+izip: 91220
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 000
+cell3: 000
+cell4: 0000
+email: jkldfjdl@jladjfl.com
+
+caryear1: 2009
+carmake1: BMW
+carmodel1: 760
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 2
+effmonth: 8
+effmday: 18
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+PHPSESSID: f3e890ec703619d3ea9d5a42dc9dd16c

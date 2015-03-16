@@ -1,0 +1,64 @@
+referral_id: 20091006122156_01
+prepopulatedACN: 0
+aciflname: BOBBI YARNO
+aciacn: CABRILLO SPRINGS
+acistreet: 7901 HARMARSH ST
+acicity: SAN DIEGO
+acistate: California
+acizip: 92123
+
+fname1: ERICA 
+lname1: ANDERSON
+dobmonth1: 4
+dobday1: 06
+dobyear1: 1986
+dlnum1: D4080742
+dlstate1: CA
+sex1: female
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 3215 KEARNY VILLA LN
+icity: SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 951
+cell3: 541
+cell4: 7012
+email: eanderson0408@hotmail.com
+
+caryear1: 2003
+carmake1: Mitsubishi
+carmodel1: ECLIPS
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 3
+effmonth: 10
+effmday: 7
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utma: 99143561.364955697.1254856730.1254856730.1254856730.1
+__utmb: 99143561.1.10.1254856730
+__utmc: 99143561
+__utmz: 99143561.1254856730.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)

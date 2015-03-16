@@ -1,0 +1,64 @@
+prepopulatedACN: 0
+aciflname: BOBBI YARNO
+aciacn: CABRILLO SPRINGS
+acistreet: 7901 HARMARSH ST
+acicity: SAN DIEGO
+acistate: California
+acizip: 92123
+
+fname1: DOUGLAS 
+lname1: ISRAEL
+dobmonth1: 7
+dobday1: 13
+dobyear1: 1973
+dlnum1: A6136036
+dlstate1: CA
+sex1: male
+fname2: ANGELIQUE 
+lname2: DAWSON
+dobmonth2: 2
+dobday2: 15
+dobyear2: 1977
+dlnum2: B4854823
+dlstate2: CA
+sex2: female
+
+istreet: 3251 ANNRAE ST
+icity: SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 619
+cell3: 767
+cell4: 8636
+email: anqelique0123@yahoo.com
+
+caryear1: 2003
+carmake1: Dodge
+carmodel1: stratus
+caryear2: 2005
+carmake2: Ford
+carmodel2: mustang
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 5
+effmonth: 7
+effmday: 24
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utma: 99143561.4183182684897719300.1247875473.1248371664.1248391858.5
+__utmz: 99143561.1247875473.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+__utmb: 99143561.1.10.1248391858
+__utmc: 99143561

@@ -1,0 +1,64 @@
+referral_id: 20090827154857_01
+prepopulatedACN: 0
+aciflname: BOBBI YARNO
+aciacn: CABRILLO SPRINGS
+acistreet: 7901 HARMARSH ST
+acicity: SAN DIEGO
+acistate: California
+acizip: 92123
+
+fname1: DANTE
+lname1: SMITH
+dobmonth1: 11
+dobday1: 27
+dobyear1: 1976
+dlnum1: B4600485
+dlstate1: CA
+sex1: male
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 8036 DONZEE ST
+icity: SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 310
+cell3: 406
+cell4: 5981
+email: cabrillosprings@yahoo.com
+
+caryear1: 2003
+carmake1: Volvo
+carmodel1: S80
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 5
+effmonth: 8
+effmday: 28
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utma: 99143561.4183182684897719300.1247875473.1251395071.1251413190.32
+__utmz: 99143561.1247875473.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+__utmb: 99143561.1.10.1251413190
+__utmc: 99143561

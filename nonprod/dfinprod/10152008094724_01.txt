@@ -1,0 +1,64 @@
+aciflname: Alicia Clark
+aciacn: Mission Bay Apartments
+acistreet: 123 Mission Bay Dr
+acicity: San Diego
+acistate: California
+acizip: 92117
+
+fname1: Gwyneth
+lname1: Paltrow
+dobmonth1: 2
+dobday1: 14
+dobyear1: 1976
+dlnum1: A1234567
+dlstate1: CA
+sex1: female
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 123 MIssion Bay Dr #123
+icity: San Diego
+istate: California
+izip: 92117
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 858
+cell3: 555
+cell4: 1234
+email: Gwyneth@aol.com
+
+caryear1: 2006
+carmake1: HUMMER
+carmodel1: h3
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 5
+effmonth: 10
+effmday: 17
+effyear: 2008
+
+ppc: $50,000
+po: $290 annually
+
+cctype: mastercard
+ccnum: 5111222233334444
+ccexpmonth: 4
+ccexpyear: 2012
+ccbillzip: 92117

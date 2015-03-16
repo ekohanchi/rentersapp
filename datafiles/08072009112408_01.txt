@@ -1,0 +1,63 @@
+prepopulatedACN: 0
+aciflname: BOBBI YARNO
+aciacn: CABRILLO SPRINGS
+acistreet: 7901 HARMARSH ST
+acicity: SAN DIEGO
+acistate: California
+acizip: 92123
+
+fname1: JEREMIAH
+lname1: POFFENBARGER
+dobmonth1: 11
+dobday1: 18
+dobyear1: 1988
+dlnum1: 04-149-0324
+dlstate1: CO
+sex1: male
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 3383 KEARNY VILLA LN
+icity: SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 720
+cell3: 323
+cell4: 4051
+email: poffenstuff1234@yahoo.com
+
+caryear1: 1995
+carmake1: Jeep
+carmodel1: rangler
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 1
+effmonth: 8
+effmday: 10
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utma: 99143561.4183182684897719300.1247875473.1249148549.1249669308.16
+__utmz: 99143561.1247875473.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+__utmb: 99143561.1.10.1249669308
+__utmc: 99143561

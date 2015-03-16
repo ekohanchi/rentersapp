@@ -1,0 +1,64 @@
+referral_id: 20090829173328_01
+prepopulatedACN: 0
+aciflname: BOBBI YARNO
+aciacn: CABRILLO SPRINGS
+acistreet: 7901 HARMARSH ST
+acicity: SAN DIEGO
+acistate: California
+acizip: 92123
+
+fname1: DONNIE
+lname1: LACRUE
+dobmonth1: 12
+dobday1: 24
+dobyear1: 1977
+dlnum1: L260172774540
+dlstate1: FL
+sex1: male
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 3422 OLGA AVE
+icity:  SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 616
+cell3: 324
+cell4: 3313
+email: cabrillosprings@yahoo.com
+
+caryear1: 1997
+carmake1: Chevrolet
+carmodel1: CAMERO
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 1
+effmonth: 8
+effmday: 31
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utma: 99143561.4183182684897719300.1247875473.1251588569.1251591499.37
+__utmz: 99143561.1247875473.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+__utmc: 99143561
+__utmb: 99143561.2.10.1251591499

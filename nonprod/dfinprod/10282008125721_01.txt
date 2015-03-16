@@ -1,0 +1,65 @@
+aciflname: Mary Smith
+aciacn: San Diego Living Apartments
+acistreet: 123 Any St
+acicity: San Diego
+acistate: California
+acizip: 92123
+
+fname1: John
+lname1: Jones
+dobmonth1: 1
+dobday1: 01
+dobyear1: 1965
+dlnum1: A1234567
+dlstate1: CA
+sex1: male
+fname2: Jennifer Jones
+lname2: Jones
+dobmonth2: 3
+dobday2: 31
+dobyear2: 1967
+dlnum2: A7654321
+dlstate2: CA
+sex2: female
+
+istreet: 123 Any St Apt 2
+icity: San Diego
+istate: California
+izip: 92123
+mstreet: PO Box 123
+mcity: San Diego
+mstate: CA
+mzip: 92123
+
+areacode: 858
+cell3: 555
+cell4: 1111
+email: JohnJones@somewhere.com
+
+caryear1: 2007
+carmake1: Honda
+carmodel1: Civic LX
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 3
+effmonth: 10
+effmday: 29
+effyear: 2008
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+
+cctype: visa
+ccnum: 4444111122223333
+ccexpmonth: 1
+ccexpyear: 2011
+ccbillzip: 92123

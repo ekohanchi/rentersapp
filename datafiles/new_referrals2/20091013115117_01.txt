@@ -1,0 +1,64 @@
+referral_id: 20091013115117_01
+prepopulatedACN: 0
+aciflname: April Woodridge
+aciacn: House of Motorcycles
+acistreet: 123 El Cajon Blvd
+acicity: San Diego
+acistate: California
+acizip: 92115
+
+fname1: John
+lname1: Smith
+dobmonth1: 10
+dobday1: 10
+dobyear1: 1988
+dlnum1: D123456
+dlstate1: CA
+sex1: male
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 333 TesT ST
+icity: San Diego
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 619
+cell3: 555
+cell4: 1212
+email: John@John.com
+
+caryear1: 1999
+carmake1: Aston Martin
+carmodel1: Expensive
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 2009
+motocmake1: Honda 
+motocmodel1: Gyxr
+motocengs1: 1100
+
+effweekday: 3
+effmonth: 10
+effmday: 14
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utma: 99143561.2617060594575780300.1235613745.1255188127.1255459582.22
+__utmz: 99143561.1253552647.9.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+__utmb: 99143561.1.10.1255459582
+__utmc: 99143561

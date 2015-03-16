@@ -1,0 +1,63 @@
+referral_id: 20091021110716_01
+prepopulatedACN: 0
+aciflname: BOBBI YARNO
+aciacn: CABRILLO SPRINGS
+acistreet: 7901 HARMARSH ST
+acicity: SAN DIEGO
+acistate: California
+acizip: 92123
+
+fname1: CHRISTINA 
+lname1: PARISH
+dobmonth1: 12
+dobday1: 03
+dobyear1: 1986
+dlnum1: 7027768
+dlstate1: AR
+sex1: female
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 3402 OLGA AVE 
+icity: SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 224
+cell3: 678
+cell4: 2756
+email: cabrillosprings@yahoo.com
+
+caryear1: 2009
+carmake1: Ferrari
+carmodel1: testorosa
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 4
+effmonth: 10
+effmday: 22
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utma: 99143561.1163412960.1256141960.1256141960.1256141960.1
+__utmc: 99143561
+__utmz: 99143561.1256141960.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)

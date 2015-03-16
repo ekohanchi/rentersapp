@@ -1,0 +1,64 @@
+aciflname: Ella Marion
+aciacn: San Diego Apartments Ltd
+acistreet: 123 Any St
+acicity: San Diego
+acistate: California
+acizip: 92123
+
+fname1: Alicia
+lname1: Clark
+dobmonth1: 1
+dobday1: 01
+dobyear1: 1980
+dlnum1: a1234567
+dlstate1: CA
+sex1: female
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 123 Any St #1
+icity: San Diego
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 858
+cell3: 555
+cell4: 1234
+email: 132@123.com
+
+caryear1: 2008
+carmake1: Ford
+carmodel1: Mustang
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 5
+effmonth: 10
+effmday: 31
+effyear: 2008
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+
+cctype: visa
+ccnum: 4444111122223333
+ccexpmonth: 3
+ccexpyear: 2012
+ccbillzip: 92123

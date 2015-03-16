@@ -1,0 +1,64 @@
+referral_id: 20091002172204_01
+prepopulatedACN: 0
+aciflname: BOBBI YARNO
+aciacn: CABRILLO SPRINGS
+acistreet: 7901 HARMARSH ST
+acicity: SAN DIEGO
+acistate: California
+acizip: 92123
+
+fname1: GAYLE
+lname1: KILDEBECK
+dobmonth1: 10
+dobday1: 20
+dobyear1: 1957
+dlnum1: N2737663
+dlstate1: CA
+sex1: female
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 3267 ANNRAE ST
+icity: SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 858
+cell3: 637
+cell4: 3588
+email: CABRILLOSPRINGS@YAHOO.COM
+
+caryear1: 2003
+carmake1: Pontiac
+carmodel1: AZTECK
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 1
+effmonth: 10
+effmday: 5
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utma: 99143561.1197957900.1254523794.1254523794.1254528338.2
+__utmb: 99143561.5.10.1254528338
+__utmc: 99143561
+__utmz: 99143561.1254523794.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)

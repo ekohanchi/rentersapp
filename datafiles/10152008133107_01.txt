@@ -1,0 +1,65 @@
+aciflname: Ramon
+aciacn: Marion Apartment Living
+acistreet: 26200 Cedar Wy
+acicity: San Diego
+acistate: California
+acizip: 92103
+
+fname1: Alicia
+lname1: Clark
+dobmonth1: 4
+dobday1: 26
+dobyear1: 1975
+dlnum1: A1234567
+dlstate1: CA
+sex1: female
+fname2: Kurt
+lname2: Torres
+dobmonth2: 12
+dobday2: 12
+dobyear2: 1974
+dlnum2: B1234567
+dlstate2: CA
+sex2: male
+
+istreet: 20622 Cedar Wy Apt 26
+icity: San Diego
+istate: California
+izip: 92103
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 858
+cell3: 555
+cell4: 1234
+email: alicia@torres.com
+
+caryear1: 2003
+carmake1: Volkswagen
+carmodel1: Beetle
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 5
+effmonth: 10
+effmday: 17
+effyear: 2008
+
+ppc: $50,000
+po: $290 annually
+
+cctype: mastercard
+ccnum: 5111222233334444
+ccexpmonth: 12
+ccexpyear: 2012
+ccbillzip: 92123

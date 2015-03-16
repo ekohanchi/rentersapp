@@ -1,0 +1,64 @@
+referral_id: 20091021154423_01
+prepopulatedACN: 0
+aciflname: Patty London
+aciacn: The Hills & Terraceas At Spring Street
+acistreet: 4341 Spring Street
+acicity: La Mesa
+acistate: California
+acizip: 91941
+
+fname1: Jane 
+lname1: Doeee
+dobmonth1: 10
+dobday1: 21
+dobyear1: 1972
+dlnum1: d2825565
+dlstate1: CA
+sex1: female
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 4341 Spring Street #1
+icity: la Mesa
+istate: California
+izip: 91941
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 555
+cell3: 555
+cell4: 5555
+email: SpringStreet@sbcglobal.net
+
+caryear1: 1970
+carmake1: Cadillac
+carmodel1: gx
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 4
+effmonth: 10
+effmday: 22
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utma: 99143561.1282741490.1256058964.1256058964.1256164865.2
+__utmz: 99143561.1256164865.2.2.utmcsr=us.mg203.mail.yahoo.com|utmccn=(referral)|utmcmd=referral|utmcct=/dc/launch
+__utmb: 99143561.1.10.1256164865
+__utmc: 99143561

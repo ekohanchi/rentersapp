@@ -1,0 +1,64 @@
+prepopulatedACN: 0
+aciflname: BOBBI YARNO
+aciacn: CABRILLO SPRINGS
+acistreet: 7901 HARMARSH ST
+acicity: SAN DIEGO
+acistate: California
+acizip: 92123
+
+fname1: ASHLEY
+lname1: MONGRAIN
+dobmonth1: 9
+dobday1: 12
+dobyear1: 1988
+dlnum1: D7631804
+dlstate1: CA
+sex1: female
+fname2: TAYLOR
+lname2: GARCIA
+dobmonth2: 0
+dobday2: 11
+dobyear2: 1988
+dlnum2: D6887523
+dlstate2: CA
+sex2: male
+
+istreet: 3281 KEARNY VILLA LN
+icity: SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 619
+cell3: 248
+cell4: 3769
+email: ashley.mongrain@hotmail.com
+
+caryear1: 2006
+carmake1: Nissan
+carmodel1: sentra
+caryear2: 2003
+carmake2: Mitsubishi
+carmodel2: lancer
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 5
+effmonth: 5
+effmday: 1
+effyear: 2009
+
+ppc: $50,000
+po: $290 annually
+__utma: 99143561.3105539605165625300.1241116509.1241134160.1241138085.3
+__utmz: 99143561.1241116509.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+__utmb: 99143561.1.10.1241138085
+__utmc: 99143561

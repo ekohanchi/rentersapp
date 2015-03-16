@@ -1,0 +1,64 @@
+referral_id: 20091016171226_01
+prepopulatedACN: 0
+aciflname: BOBBI YARNO
+aciacn: CABRILLO SPRINGS 
+acistreet: 7901 HARMARSH ST
+acicity: SAN DIEGO
+acistate: California
+acizip: 92123
+
+fname1: JULIE
+lname1: MARACLE
+dobmonth1: 9
+dobday1: 05
+dobyear1: 1979
+dlnum1: D3168608
+dlstate1: CA
+sex1: female
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 3453 KEARNY VILLA LN
+icity: SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 619
+cell3: 400
+cell4: 6494
+email: cabrillosprings@yahoo.com
+
+caryear1: 2003
+carmake1: Toyota
+carmodel1: tundra
+caryear2: 2003
+carmake2: Ford
+carmodel2: expedition
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 1
+effmonth: 10
+effmday: 19
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utma: 99143561.162557727.1255738256.1255738256.1255738256.1
+__utmb: 99143561.1.10.1255738256
+__utmc: 99143561
+__utmz: 99143561.1255738256.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)

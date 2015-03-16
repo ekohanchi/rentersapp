@@ -1,0 +1,64 @@
+referral_id: 20090831111642_01
+prepopulatedACN: 0
+aciflname: BOBBI YARNO
+aciacn: CABRILLO SPRINGS
+acistreet: 7901 HARMARSH ST
+acicity: SAN DIEGO
+acistate: California
+acizip: 92123
+
+fname1: JARED
+lname1: JONES
+dobmonth1: 5
+dobday1: 24
+dobyear1: 1989
+dlnum1: M263372745391
+dlstate1: MD
+sex1: male
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 7960 HARMARSH ST
+icity: SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 443
+cell3: 205
+cell4: 3995
+email: mccartyjared@ymail.com
+
+caryear1: 2002
+carmake1: Lincoln
+carmodel1: blackwood
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 2
+effmonth: 9
+effmday: 1
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utma: 99143561.4183182684897719300.1247875473.1251737065.1251741029.39
+__utmz: 99143561.1247875473.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+__utmc: 99143561
+__utmb: 99143561.2.10.1251741029

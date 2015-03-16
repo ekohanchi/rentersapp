@@ -1,0 +1,65 @@
+aciflname: Xavier
+aciacn: Marion Apartments
+acistreet: 3231 Murray Ridge Rd
+acicity: San Diego
+acistate: California
+acizip: 92123
+
+fname1: Gwen
+lname1: Stefani
+dobmonth1: 1
+dobday1: 05
+dobyear1: 1972
+dlnum1: A1234567
+dlstate1: CA
+sex1: female
+fname2: Gavin
+lname2: Rossdale
+dobmonth2: 3
+dobday2: 21
+dobyear2: 1968
+dlnum2: B1234567
+dlstate2: CA
+sex2: male
+
+istreet: 123 W Beverly Hill Dr #2612
+icity: Beverly Hills
+istate: California
+izip: 90210
+mstreet: PO Box 2612
+mcity: Beverly Hills
+mstate: CA
+mzip: 90210
+
+areacode: 323
+cell3: 555
+cell4: 1234
+email: hellagood@yahoo.com
+
+caryear1: 2009
+carmake1: Maserati
+carmodel1: C Class
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 4
+effmonth: 10
+effmday: 16
+effyear: 2008
+
+ppc: $30,000
+po: $222 annually
+
+cctype: visa
+ccnum: 4111222233334444
+ccexpmonth: 4
+ccexpyear: 2012
+ccbillzip: 90210

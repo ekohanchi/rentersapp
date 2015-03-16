@@ -1,0 +1,64 @@
+prepopulatedACN: 0
+aciflname: BOBBI YARNO
+aciacn: CABRILLO SPRINGS
+acistreet: 7901 HARMARSH ST
+acicity: SAN DIEGO
+acistate: California
+acizip: 92123
+
+fname1: KASSIDI
+lname1: JEPPESEN
+dobmonth1: 12
+dobday1: 07
+dobyear1: 1984
+dlnum1: D00674109
+dlstate1: AZ
+sex1: female
+fname2: NATHAN
+lname2: JEPPESEN
+dobmonth2: 5
+dobday2: 14
+dobyear2: 1984
+dlnum2: D00674109
+dlstate2: AZ
+sex2: male
+
+istreet: 3488 OLGA AVE
+icity: SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 480
+cell3: 628
+cell4: 2987
+email: kass1284@hotmail.com
+
+caryear1: 2000
+carmake1: Nissan
+carmodel1: pathfinder
+caryear2: 2002
+carmake2: Honda
+carmodel2: civic
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 1
+effmonth: 6
+effmday: 1
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utma: 99143561.454460043532885500.1243713071.1243713071.1243717032.2
+__utmb: 99143561.2.10.1243717032
+__utmc: 99143561
+__utmz: 99143561.1243713071.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)

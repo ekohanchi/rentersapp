@@ -1,0 +1,60 @@
+prepopulatedACN: 0
+aciflname: BOBBI JEAN YARNO
+aciacn: CABRILLO SPRINGS
+acistreet: 7901 HARMARSH ST
+acicity: SAN DIEGO
+acistate: California
+acizip: 92123
+
+fname1: JOHN
+lname1: BRAUNSDORF
+dobmonth1: 8
+dobday1: 20
+dobyear1: 1965
+dlnum1: C1972813
+dlstate1: CA
+sex1: male
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+sex2: male
+
+istreet: 3250 ANNRAE ST
+icity: SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 858
+cell3: 442
+cell4: 7325
+email: grt8guy@yahoo.com
+
+caryear1: 2004
+carmake1: Ford
+carmodel1: f250
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 5
+effmonth: 2
+effmday: 27
+effyear: 2009
+
+ppc: $30,000
+po: $222 annually

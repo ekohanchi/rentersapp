@@ -1,0 +1,60 @@
+referral_id: 20091017164252_01
+prepopulatedACN: 0
+aciflname: Jessica Sample
+aciacn: Creekside Apartments
+acistreet: 495 E. Third Street
+acicity: San Bernardino
+acistate: California
+acizip: 92410
+
+fname1: Yesenia
+lname1: Mendoza
+dobmonth1: 2
+dobday1: 07
+dobyear1: 1988
+dlnum1: D8602435
+dlstate1: CA
+sex1: female
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 495 E. Third Street
+icity: San Bernardino
+istate: California
+izip: 92410
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 909
+cell3: 717
+cell4: 1903
+email: Notapplicable@yahoo.com
+
+caryear1: 2006
+carmake1: Nissan
+carmodel1: Sentra
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 1
+effmonth: 10
+effmday: 19
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly

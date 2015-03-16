@@ -1,0 +1,64 @@
+aciflname: Sandra Smoothy
+aciacn: Vista Capri
+acistreet: 3355 Any Street
+acicity: San Diego
+acistate: California
+acizip: 92111
+
+fname1: Ella 
+lname1: Marion
+dobmonth1: 6
+dobday1: 12
+dobyear1: 1987
+dlnum1: 2233445
+dlstate1: CA
+sex1: female
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+
+istreet: 6655 Any Street
+icity: San Diego
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 619
+cell3: 555
+cell4: 1212
+email: ella@sf.com
+
+caryear1: 2003
+carmake1: Honda
+carmodel1: Civic
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 2
+effmonth: 10
+effmday: 28
+effyear: 2008
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+
+cctype: visa
+ccnum: 4222222222222222
+ccexpmonth: 2
+ccexpyear: 2010
+ccbillzip: 92123

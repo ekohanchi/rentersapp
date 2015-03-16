@@ -1,0 +1,78 @@
+aciflname: Sandra
+aciacn: Vista Capri
+acistreet: 3377 Berger Ave
+acicity: San Diego
+acistate: California
+acizip: 92123
+
+fname1: Ella Mae
+lname1: Marion
+dobmonth1: 3
+dobday1: 09
+dobyear1: 1982
+dlnum1: B1234567
+dlstate1: CA
+sex1: female
+fname2: Ramon
+lname2: Marion
+dobmonth2: 9
+dobday2: 05
+dobyear2: 1980
+dlnum2: B7654321
+dlstate2: CA
+sex2: male
+fname3: 
+lname3: 
+dobmonth3: 0
+dobday3: DD
+dobyear3: YYYY
+dlnum3: 
+dlstate3: 00
+fname4: 
+lname4: 
+dobmonth4: 0
+dobday4: DD
+dobyear4: YYYY
+dlnum4: 
+dlstate4: 00
+
+istreet: 3377 Berger Ave Apt 21
+icity: San Diego
+istate: California
+izip: 92123
+mstreet: 3231 Murray Ridge Rd
+mcity: San Diego
+mstate: CA
+mzip: 92123
+
+areacode: 858
+cell3: 610
+cell4: 8250
+email: ellamaemarion@aol.com
+
+caryear1: 2000
+carmake1: Honda
+carmodel1: Civic LX
+caryear2: 2004
+carmake2: Toyota
+carmodel2: 4Runner
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 3
+effmonth: 10
+effmday: 15
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+
+cctype: visa
+ccnum: 4111222233334444
+ccexpmonth: 1
+ccexpyear: 2012
+ccbillzip: 92123

@@ -1,0 +1,64 @@
+prepopulatedACN: 0
+aciflname: BOBBI YARNO
+aciacn: CABRILLO SPRINGS
+acistreet: 7901 HARMARSH ST
+acicity: SAN DIEGO
+acistate: California
+acizip: 92123
+
+fname1: ROBERT
+lname1: PACIANO
+dobmonth1: 10
+dobday1: 24
+dobyear1: 1984
+dlnum1: D5332456
+dlstate1: CA
+sex1: male
+fname2: RICARDO
+lname2: PUENTE
+dobmonth2: 12
+dobday2: 29
+dobyear2: 1984
+dlnum2: P530720844690
+dlstate2: FL
+sex2: male
+
+istreet: 3234 ANNRAE ST
+icity: SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 858
+cell3: 603
+cell4: 2251
+email: rpuente@gmail.com
+
+caryear1: 2004
+carmake1: Honda
+carmodel1: civic
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 4
+effmonth: 7
+effmday: 30
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utma: 99143561.4183182684897719300.1247875473.1248888123.1248910599.9
+__utmz: 99143561.1247875473.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+__utmb: 99143561.1.10.1248910599
+__utmc: 99143561

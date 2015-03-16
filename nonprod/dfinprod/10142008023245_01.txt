@@ -1,0 +1,77 @@
+aciflname: adsfads
+aciacn: adsfadf
+acistreet: adfadsf
+acicity: adsfadsf
+acistate: California
+acizip: 24234
+
+fname1: adfadsf
+lname1: adsfadsf
+dobmonth1: 12
+dobday1: 23
+dobyear1: 2342
+dlnum1: adfadsf
+dlstate1: CA
+sex1: male
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+fname3: 
+lname3: 
+dobmonth3: 0
+dobday3: DD
+dobyear3: YYYY
+dlnum3: 
+dlstate3: 00
+fname4: 
+lname4: 
+dobmonth4: 0
+dobday4: DD
+dobyear4: YYYY
+dlnum4: 
+dlstate4: 00
+
+istreet: adfadsf
+icity: adsfasdf
+istate: California
+izip: 23423
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 324
+cell3: 234
+cell4: 2343
+email: adsf@adjfl.com
+
+caryear1: 2342
+carmake1: BMW
+carmodel1: adfadf
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 3
+effmonth: 10
+effmday: 15
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+
+cctype: visa
+ccnum: 4324324323423423
+ccexpmonth: 12
+ccexpyear: 2343
+ccbillzip: 23423

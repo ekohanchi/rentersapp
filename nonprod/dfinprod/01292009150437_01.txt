@@ -1,0 +1,60 @@
+prepopulatedACN: 1
+aciflname: Melroy Property Management
+aciacn: A Melroy Managed Property
+acistreet: 4241 Jutland Drive, #201
+acicity: San Diego
+acistate: California
+acizip: 92117
+
+fname1: Ignacio
+lname1: Carbajal
+dobmonth1: 5
+dobday1: 13
+dobyear1: 1988
+dlnum1: D4705309
+dlstate1: CA
+sex1: male
+fname2: Monica
+lname2: Carbajal
+dobmonth2: 12
+dobday2: 16
+dobyear2: 1988
+dlnum2: D5935768
+dlstate2: CA
+sex2: female
+
+istreet: 4670 34th St
+icity: San Diego
+istate: California
+izip: 92104
+mstreet: 4670 34Th St
+mcity: San Diego
+mstate: CA
+mzip: 92104
+
+areacode: 619
+cell3: 219
+cell4: 1725
+email: Iggytoys882004@yahoo.com
+
+caryear1: 2008
+carmake1: Scion
+carmodel1: TC
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 5
+effmonth: 1
+effmday: 30
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly

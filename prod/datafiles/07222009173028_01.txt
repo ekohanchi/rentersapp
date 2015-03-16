@@ -1,0 +1,64 @@
+prepopulatedACN: 0
+aciflname: BOBBI YARNO
+aciacn: CABRILLO SPRINGS
+acistreet: 7901 HARMARSH ST
+acicity: SAN DIEGO
+acistate: California
+acizip: 92123
+
+fname1: AMANDA 
+lname1: CARLSON
+dobmonth1: 3
+dobday1: 20
+dobyear1: 1984
+dlnum1: 7071946
+dlstate1: AL
+sex1: female
+fname2: RICHARD
+lname2: CARLSON
+dobmonth2: 6
+dobday2: 07
+dobyear2: 1980
+dlnum2: E2089462
+dlstate2: CA
+sex2: male
+
+istreet: 7944 HARMARSH ST
+icity: SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 205
+cell3: 370
+cell4: 1793
+email: mandy032084@yahoo.com
+
+caryear1: 2000
+carmake1: Toyota
+carmodel1: corola
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 4
+effmonth: 7
+effmday: 23
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utma: 99143561.4183182684897719300.1247875473.1247956762.1248308879.3
+__utmz: 99143561.1247875473.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+__utmb: 99143561.1.10.1248308879
+__utmc: 99143561

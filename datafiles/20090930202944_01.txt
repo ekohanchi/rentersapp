@@ -1,0 +1,61 @@
+referral_id: 20090930202944_01
+prepopulatedACN: 1
+aciflname: Melroy Property Management
+aciacn: A Melroy Managed Property
+acistreet: 4241 Jutland Drive, #201
+acicity: San Diego
+acistate: California
+acizip: 92117
+
+fname1: Test
+lname1: ajladfj
+dobmonth1: 12
+dobday1: 23
+dobyear1: 2343
+dlnum1: jladf
+dlstate1: CA
+sex1: male
+fname2: 
+lname2: 
+dobmonth2: 0
+dobday2: DD
+dobyear2: YYYY
+dlnum2: 
+dlstate2: 00
+sex2: <none\\>
+
+istreet: 2343
+icity: adf
+istate: California
+izip: 23432
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 343
+cell3: 343
+cell4: 3433
+email: adjfl@jlsf.com
+
+caryear1: 2343
+carmake1: BMW
+carmodel1: 2343
+caryear2: 
+carmake2: Select a Car
+carmodel2: 
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 4
+effmonth: 10
+effmday: 1
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly

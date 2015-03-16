@@ -1,0 +1,64 @@
+prepopulatedACN: 0
+aciflname: BOBBI YARNO
+aciacn: CABRILLO SPRINGS
+acistreet: 7901 HARMARSH ST
+acicity: SAN DIEGO
+acistate: California
+acizip: 92123
+
+fname1: JENNIFER
+lname1: ARVAYO
+dobmonth1: 4
+dobday1: 23
+dobyear1: 1977
+dlnum1: B7006762
+dlstate1: CA
+sex1: female
+fname2: JESUS
+lname2: ARVAYO
+dobmonth2: 3
+dobday2: 14
+dobyear2: 1978
+dlnum2: B6987847
+dlstate2: CA
+sex2: male
+
+istreet: 3494 OLGA AVE
+icity: SAN DIEGO
+istate: California
+izip: 92123
+mstreet: 
+mcity: 
+mstate: 00
+mzip: 
+
+areacode: 619
+cell3: 252
+cell4: 1419
+email: j.arvayo@yahoo.com
+
+caryear1: 2004
+carmake1: Honda
+carmodel1: accord
+caryear2: 2006
+carmake2: Dodge
+carmodel2: ram 1500
+caryear3: 
+carmake3: Select a Car
+carmodel3: 
+motocyear1: 
+motocmake1: 
+motocmodel1: 
+motocengs1: 
+
+effweekday: 3
+effmonth: 7
+effmday: 15
+effyear: 2009
+
+ppc: $30,000
+po: $39 first month's downpayment, $21.50 monthly
+__utma: 99143561.2567028402456374000.1247588925.1247588925.1247588925.1
+__utmb: 99143561.1.10.1247588925
+__utmc: 99143561
+__utmz: 99143561.1247588925.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
